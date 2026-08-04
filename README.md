@@ -1,8 +1,4 @@
-# Advanced_DSA
-Leetcode and gfg problems (Java)
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
+# DSA Topics
 ## Array
 |  |
 | ------- |
