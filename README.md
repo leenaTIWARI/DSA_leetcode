@@ -10,6 +10,7 @@ Leetcode and gfg problems (Java)
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/leenaTIWARI/Advanced_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/leenaTIWARI/Advanced_DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/leenaTIWARI/Advanced_DSA/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/leenaTIWARI/Advanced_DSA/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,4 +29,8 @@ Leetcode and gfg problems (Java)
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/leenaTIWARI/Advanced_DSA/tree/master/0219-contains-duplicate-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/leenaTIWARI/Advanced_DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
